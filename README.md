@@ -33,8 +33,8 @@ Saya merancang dan membangun ekosistem digital dengan alat-alat berikut:
 
 ### 📊 Tactical Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=0db7ed&text_color=ffffff&bg_color=0d1117" alt="Arya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Arya's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryaaapplg&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=0db7ed&text_color=ffffff&bg_color=0d1117" alt="Arya's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaapplg&layout=compact&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Arya's Top Languages" />
 </div>
 
 ---
@@ -74,8 +74,8 @@ Saya merancang dan membangun ekosistem digital dengan alat-alat berikut:
 
 ### 📊 Tactical Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=0db7ed&text_color=ffffff&bg_color=0d1117" alt="Arya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Arya's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryaaapplg&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=0db7ed&text_color=ffffff&bg_color=0d1117" alt="Arya's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaapplg&layout=compact&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Arya's Top Languages" />
 </div>
 
 ---
